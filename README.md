@@ -4,10 +4,10 @@ Este repositorio contiene todos los mini proyectos asignados en la materia de In
 
 ## Contenido del Repositorio
 
-- **Mini Proyecto 1**: [Descripción breve del proyecto 1]
-- **Mini Proyecto 2**: [Descripción breve del proyecto 2]
-- **Mini Proyecto 3**: [Descripción breve del proyecto 3]
-- **Mini Proyecto 4**: [Descripción breve del proyecto 4]
+- **Mini Proyecto 1**
+- **Mini Proyecto 2**
+- **Mini Proyecto 3**
+- **Mini Proyecto 4**
 
 ## Contacto
 
