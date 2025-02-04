@@ -13,3 +13,5 @@ Este repositorio contiene todos los mini proyectos asignados en la materia de In
 
 Para cualquier consulta o aclaración, puede contactarme a través de mi correo electrónico: [jalfredcaraballo@gmail.com]
 
+## Alumno 
+Jorge Caraballo 30.366.057
